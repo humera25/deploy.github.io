@@ -1,0 +1,68 @@
+body{
+    margin: 150px;
+    margin-top: 200px;
+    background-color: #F3F5F7;
+
+}
+
+.form{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+    box-shadow: 8px 8px 8px 8px gray;
+}
+.form input{
+    width: 350px;
+    height: 45px;
+    border: 1px solid #d3d5da;
+
+}
+input:hover{
+    border-color: #1778F2;
+}
+h1{
+    color: #1778F2;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: Helvetica, sans-serif;
+}
+.head p{
+    font-size: 28px;
+    font-weight: 450;
+    line-height: 27px;
+    font-family: Helvetica, sans-serif;
+}
+.login {
+    width: 200px;
+    text-align: center;
+    background-color: #1778F2;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+.new{
+    position: relative;
+    left: 90px;
+   background-color: rgb(5, 146, 5);
+   font-family: Helvetica, sans-serif;
+   font-size: 17px;
+    font-weight: 550;
+    color: white;
+    padding: 10px;
+}
+.fp{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Helvetica, sans-serif;
+}
+
+.form p{
+    color: gray;
+}
